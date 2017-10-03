@@ -1,3 +1,16 @@
+#Feature2
+
+#feature 1
+
+#Master1 incorporated
+
+
+#Feature 2 again incorporated
+
+
+# Feature 3 implemented
+
+#import numpy
 """
 #import numpy
 
